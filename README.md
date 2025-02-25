@@ -1,6 +1,6 @@
 # Bike-Sales-Analysis
 📊 Bike Sales Dashboard
-(Add your project image here)
+
 
 📌 Overview
 This project analyzes bike sales data to identify key trends affecting purchasing decisions. The interactive dashboard provides insights into:
@@ -10,8 +10,7 @@ This project analyzes bike sales data to identify key trends affecting purchasin
 ✔️ Regional and demographic breakdowns
 
 📂 Dataset Used
-Source: (Mention source if applicable)
-Data Format: CSV / Excel
+Data Format:  Excel
 Key Features:
 Customer demographics (age, marital status, education)
 Financial details (income, car ownership)
@@ -26,7 +25,7 @@ Purchase decision (Yes/No)
 ✅ Data Visualization
 ✅ Data Analysis
 ✅ Dashboard Design
-✅ Excel / Tableau (if applicable)
+✅ Excel
 ✅ Business Intelligence
 
 📌 How to Use This Dashboard
